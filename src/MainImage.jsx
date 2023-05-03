@@ -1,5 +1,4 @@
 import styled from 'styled-components';
-import { GlobalStyles } from './styles';
 
 const ContainerImage = styled.div`
   width: 100%;
