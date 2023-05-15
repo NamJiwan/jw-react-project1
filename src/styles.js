@@ -3,6 +3,7 @@ import reset from "styled-reset";
 
 export const GlobalStyles=createGlobalStyle`
 ${reset}
+
 *{
     box-sizing:border-box;
 }
@@ -17,6 +18,9 @@ a{
 }
 body{
     font-family: 'Pretendard-Regular';
+}
+h1{
+    font-size:30px;
 }
 `
 

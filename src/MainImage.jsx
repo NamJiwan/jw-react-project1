@@ -1,5 +1,6 @@
 import styled from 'styled-components';
 
+
 const ContainerImage = styled.div`
   width: 100%;
   height: 80vh;
@@ -50,6 +51,8 @@ export default function MainImage() {
         <div>영진직업전문학교</div>
         <SubTitle>최고의 수업</SubTitle>
       </MainTitle>
+      
+
     </ContainerImage>
   );
 }
